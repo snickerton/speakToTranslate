@@ -1,2 +1,4 @@
 # speakToTranslate
-Voice recognition translator that scrapes data from a google translate page and speaks the translation back to you
+
+INACTIVE
+Use for refernce of how to web scrape with cheerio/node.js and jquery
